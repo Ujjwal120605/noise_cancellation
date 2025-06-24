@@ -8,7 +8,7 @@ This is an interactive web application that demonstrates **real-time audio noise
 
 🌀 GitHub Repo: [https://github.com/Ujjwal120605/noise_cancellation](https://github.com/Ujjwal120605/noise_cancellation)
 
-🌐 Local App: [http://localhost:8501](http://localhost:8501)
+🌐 Local App: [http://localhost:8501] https://ujjwal120605.github.io/noise_cancellation/
 
 ---
 
